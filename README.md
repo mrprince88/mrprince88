@@ -23,12 +23,8 @@
 - 📫 How to reach me: mail me at [mrpince0088@gmail.com](mailto:mrprince0088@gmail.com).
 - ⚡ Fun fact: I usually like coding at nights! 
 
-<a href="https://mrprince88.github.io">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrpince88&count_private=true" align="center"/>
-</a>
-<a href="https://mrprince88.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpince88&layout=compact" align="center"/>
-</a>
+![Prince's github stats](https://github-readme-stats.vercel.app/api?username=mrprince88&show_icons=true&theme="dracula")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrprince88&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 <p align="center">
