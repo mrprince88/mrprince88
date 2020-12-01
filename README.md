@@ -1,7 +1,7 @@
 # Prince Singh 👨‍💻
 
 [![Twitter Badge](https://img.shields.io/badge/-%40mrprince0088-grey?style=flat&logo=twitter)](https://twitter.com/mrprince0088)
-[![Linkedin Badge](https://img.shields.io/badge/-%40mrprince88-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mrprince88/)
+[![Linkedin Badge](https://img.shields.io/badge/mrprince88-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mrprince88/)
 [![Gmail Badge](https://img.shields.io/badge/mrprince0088@gmail.com-white?style=flat&logo=gmail)](mailto:mrprince0088@gmail.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrprince88.mrprince88)  
 
