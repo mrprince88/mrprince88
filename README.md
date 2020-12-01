@@ -24,6 +24,7 @@
 - ⚡ Fun fact: I usually like coding at nights! 
 
 ![Prince's github stats](https://github-readme-stats.vercel.app/api?username=mrprince88&show_icons=true&theme="dracula")
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrprince88&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
