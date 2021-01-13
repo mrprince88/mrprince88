@@ -1,5 +1,7 @@
 <div align='center'>
+  
 # Hello World! I'm Prince Singh
+</div>
 
 # About me
 - Avid Competitive Programmer
@@ -18,5 +20,4 @@ Face the demands of life voluntarily. Respond to a challenge, instead of bracing
   <a href="https://linkedin.com/in/mrprince88" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-</div>
 </div>
