@@ -7,10 +7,8 @@
 - Avid Competitive Programmer
 - Full Stack Web Developer (ReactJS and NodeJS)
 - Linux Enthusiast
-- Undergraduate Student exploring the realms of Computer Science
+- Undergraduate Student exploring the realms of Computer Science.
 
-# My Motivations
-Face the demands of life voluntarily. Respond to a challenge, instead of bracing for catastrophe. 
 
 <h1> Let's connect </h1>
 <div>
