@@ -1,6 +1,6 @@
 <div align='center'>
   
-# Hello World! I'm Prince Singh
+# Hello! I'm Prince Singh
 </div>
 
 # About me
