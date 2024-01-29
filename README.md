@@ -5,9 +5,9 @@
 
 # About me
 - Avid Competitive Programmer
-- Full Stack Web Developer (ReactJS and NodeJS)
+- Full Stack Web Developer (React,Next.js and Node.js)
 - Linux Enthusiast
-- Undergraduate Student exploring the realms of Computer Science.
+- Experienced Software Engineer
 
 
 <h1> Let's connect </h1>
